@@ -15,7 +15,8 @@ An open research data infrastructure initiative led by the
 [Integrative Bioinformatics Lab](https://github.com/IntegrativeBioinformaticsLab)
 at Maastricht University.
 
-Supported by Open Science NL.
+Supported by NWO Open Science NL (https://www.openscience.nl/)
+https://www.nwo.nl/en/projects/einyi64583
 
 </div>
 
