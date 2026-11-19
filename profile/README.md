@@ -53,6 +53,7 @@ and plant research infrastructures.
 ## Project Affiliation
 
 **Integrative Bioinformatics Lab**  
+Plant Functional Genomics
 Brightlands Future Farming Institute  
 Maastricht University, The Netherlands
 
