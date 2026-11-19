@@ -31,6 +31,7 @@ interoperable, and reusable.
 
 | Research Area | Focus |
 |---|---|
+| Omics Workflows | Automated workflows for omics data analysis |
 | FAIR Metadata | Templates and community standards |
 | Semantic Models | Ontologies, JSON-LD, linked data |
 | Data Ingestion | Modular Nextflow workflows |
@@ -54,7 +55,7 @@ and plant research infrastructures.
 Brightlands Future Farming Institute  
 Maastricht University, The Netherlands
 
-Project Coordinator: Dr. Kumar Saurabh Singh 
-(PI, Integrative Bioinformatics Lab, Maastricht University)
+## Project Coordinator: Dr. Kumar Saurabh Singh 
+# (PI, Integrative Bioinformatics Lab, Maastricht University)
 
 **Funding:** NWO Open Science NL
