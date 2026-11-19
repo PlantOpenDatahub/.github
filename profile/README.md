@@ -58,10 +58,10 @@ Maastricht University, The Netherlands
 
 ## Project Coordinator
 <a href="https://github.com/kumarsaurabh20">
-  <img src="https://cdn.simpleicons.org/github/181717"
+  <img src="https://cdn.simpleicons.org/github/0969DA"
        alt="GitHub"
-       width="18"
-       height="18"
+       width="20"
+       height="20"
        align="absmiddle">
   Dr. Kumar Saurabh Singh
 </a>
