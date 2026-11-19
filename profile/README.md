@@ -57,6 +57,6 @@ Brightlands Future Farming Institute
 Maastricht University, The Netherlands
 
 ## Project Coordinator: Dr. Kumar Saurabh Singh 
-# (PI, Integrative Bioinformatics Lab, Maastricht University)
+(PI, Integrative Bioinformatics Lab, Maastricht University)
 
 **Funding:** NWO Open Science NL
